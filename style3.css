@@ -1,0 +1,47 @@
+/*styling the container*/
+.container{
+    width: 80px;
+    margin: 20px;
+    padding: 20px;
+    border-color: rgb(225, 10, 10);
+    background-color: antiquewhite;
+    color: black;
+}
+
+/*styling the id*/
+main-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: coral;
+    text-align: center;
+    border-bottom: 2px;
+}
+
+/*styling a class*/
+description {
+    padding: 10px;
+    margin-bottom: 15px;
+    border-left: 4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkgreen;
+}
+
+/*styling an image*/
+styled-image {
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #ff5733;
+    padding: 10px;
+}
+
+/*styling the content box*/
+content-box {
+    background-color: #ffc107;
+    padding: 15px;
+    border: 3px solid #444;
+    font-size: 20px;
+    font-family: 'Verdana', sans-serif
+}
+
